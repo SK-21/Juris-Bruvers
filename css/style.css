@@ -51,7 +51,7 @@ body{
     width: 100%;
     height: 100%;
     z-index: 11111111;
-    background: url(../images/img-loader1.gif) center no-repeat rgb(248, 232, 207);
+    background: url(../img/img-loader1.gif) center no-repeat rgb(248, 232, 207);
 }
 
 
